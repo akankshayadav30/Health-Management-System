@@ -1,15 +1,12 @@
 # Development-of-Smart-Healthcare-Solution
 This project uses full-fledged Internet of Thing (IoT) architecture to help collect important health data of elderly under care for optimal monitoring and care in the healthcare environment.
 
-Contributors: This project was carried out by seven(7) ISEP Students (4 Masters students and 3 exchange students), they are as follows;
+Contributors: This project was carried out by seven(3) KIET Students, they are as follows;
 
-		1- Abdullah Isa AHMED
-		2- EBO Ife Olalekan
-		3- Jean-François ALBERTINI 
-		4- Aneesh Yadav
-		5- Kelly YEOH KAILI
-		6- Shi Song PANG
-		7- Arthur W. S. Kristiansen
+		1- Akanksha Yadav
+		2- Piyush Mishra
+		3- Rohit Raj Singh 
+		
 
 
 Introduction:
